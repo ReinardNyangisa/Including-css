@@ -1,17 +1,22 @@
 h1 {
-    color: blue;
+    color: brown;
     font-size: 40px;
     text-transform: uppercase;
     text-align: center;
+    letter-spacing: -2;
+    
 }
 
 p {
     color: red;
     font-size: 30px;
     line-height: 0;
+    letter-spacing: -2;
 }
 
 a {
     text-decoration: none;
     font-style: italic;
+    letter-spacing: -2;
+    font-size: 16px;
 } 
